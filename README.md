@@ -2,11 +2,9 @@
 
 A practice project that takes a messy customer dataset, cleans it step by step, and presents the findings in a one-page dashboard.
 
-<<<<<<< HEAD
-![[C:\Users\Sara\Downloads\Data Analytics\Customer Churn Data Cleaning\dashboard\dashboard.png]]
-=======
+
 ![Dashboard](Dashboard/dashboard.png)
->>>>>>> 56e1eeff51c7076e7e7c0854a4f79bf4cd78c2cc
+
 
 ## Goal
 
@@ -25,7 +23,7 @@ Excel, Power Query, Pivot Tables, Pivot Charts.
 ## Data cleaning
 
 Every decision is documented in `Cleaning Log` (inside the Excel file). 
-![[Dashboard\cleaning log.png]]
+![Dashboard](Dashboard\cleaning log.png)
 Main steps:
 
 |Issue|Rows|What I did|
