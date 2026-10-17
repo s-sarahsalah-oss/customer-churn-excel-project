@@ -2,7 +2,7 @@
 
 A practice project that takes a messy customer dataset, cleans it step by step, and presents the findings in a one-page dashboard.
 
-![[Dashboard\dashboard.png]]
+![[C:\Users\Sara\Downloads\Data Analytics\Customer Churn Data Cleaning\dashboard\dashboard.png]]
 
 ## Goal
 
