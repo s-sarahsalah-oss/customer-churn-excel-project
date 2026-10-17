@@ -2,7 +2,7 @@
 
 A practice project that takes a messy customer dataset, cleans it step by step, and presents the findings in a one-page dashboard.
 
-![Dashboard](dashboard/dashboard.png)
+![Dashboard](Dashboard/dashboard.png)
 
 ## Goal
 
