@@ -24,7 +24,9 @@ Excel, Power Query, Pivot Tables, Pivot Charts.
 
 ## Data cleaning
 
-Every decision is documented in `Cleaning Log` (inside the Excel file). Main steps:
+Every decision is documented in `Cleaning Log` (inside the Excel file). 
+![[Dashboard\cleaning log.png]]
+Main steps:
 
 |Issue|Rows|What I did|
 |-|-|-|
