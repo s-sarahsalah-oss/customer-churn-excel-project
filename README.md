@@ -13,7 +13,7 @@ Find out which customers are most likely to leave (churn), and suggest simple ac
 ## Data
 
 * Practice dataset, 10,300 rows and 10 columns (customer details, plan, payment method, last login, support calls, monthly spend, churn).
-* Source: *add where you got the dataset here*
+* Source: [Kaggle](https://www.kaggle.com/datasets/waddahali/e-commerce-customer-churn-audit)
 * The dataset is not from a real company, and the overall churn rate (76%) is unusually high. The results show patterns, not proven causes.
 
 ## Tools
@@ -53,7 +53,7 @@ Why the median? It is not affected by extreme values. Why by plan for spend? Spe
 ```
 data/       raw dataset
 excel/      cleaned Excel file (Cleaning Log, Power Query, Pivot Tables, Dashboard)
-dashboard/  dashboard as PDF and image
+dashboard/  dashboard and cleaning log as PDF and image 
 README.md
 ```
 
